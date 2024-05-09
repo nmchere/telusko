@@ -19,8 +19,4 @@ Instructions on how to use your project and any relevant examples.
 
 ## Contributing
 
-Guidelines for contributing to your project, including how to report issues and submit pull requests.
-
-## License
-
-Information about the license.
+Guidelines for contributing to your project, including how to report issues and submit
