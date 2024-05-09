@@ -23,4 +23,4 @@ Guidelines for contributing to your project, including how to report issues and 
 
 ## License
 
-Information about the license for your project.
+Information about the license.
